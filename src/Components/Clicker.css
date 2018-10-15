@@ -1,0 +1,15 @@
+.order {
+    padding: 0.5rem;
+    opacity: 0.3;
+}
+
+.order.current {
+    font-weight: 700;
+    opacity: 1;
+}
+
+.order .badge {
+    font-size: 4rem;
+    margin-right: 1rem;
+    padding: 1rem 2rem;
+}
